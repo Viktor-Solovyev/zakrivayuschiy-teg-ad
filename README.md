@@ -1,1 +1,1 @@
-https://github.com/Viktor-Solovyev/zakrivayuschiy-teg-ad.git
+https://viktor-solovyev.github.io/zakrivayuschiy-teg-ad/

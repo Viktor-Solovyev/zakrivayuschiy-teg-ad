@@ -175,7 +175,7 @@
 }
 
 .card_text {
-  padding: var(--padding-text); 
+  padding: var(--padding-text);
   line-height: var(--line-height-text);
   border-block-start: var(--outline-main);
 }
