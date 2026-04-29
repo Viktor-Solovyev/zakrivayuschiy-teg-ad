@@ -9,7 +9,7 @@
 ✦ button__text — для обозначения текстового элемента внутри кнопки
 
 */
-<<<<<<< HEAD
+
 @supports (font-variation-settings: normal) {
   .page {
     font-family: var(--variable-font-main), sans-serif;
@@ -434,10 +434,6 @@ dialog::backdrop {
     min-inline-size: 293px;
   }
 }
-=======
 
-.page {
-  min-inline-size: 320px;
-  min-block-size: 100dvb;
-}
->>>>>>> 33a906d07b12055731d7f51c605298391084709d
+
+
